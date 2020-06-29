@@ -1,0 +1,8 @@
+La diferencia en el punto a) y del ejemplo es:
+En el punto a es necesario que se lea el el cambio del pin2 y se almacene en una variable(estado) en cada momento,tambien
+un if que detecte el cambio con un if(if(estado!=estadoAnt)), ponga en marcha la funcion(todos();) que prende todos los Leds
+.Se alamacene el estado anterior en otra variable(estadoAnt).Mientras que en el ejemplo solo se usa la interrupcion que,
+detecta el cambio en el pin2 en modo de evento CHANGE(detecta el cambio de Low a high o high a low) activando asi el evento
+a la funcion todos().
+
+
