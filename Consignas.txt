@@ -3,3 +3,4 @@ b) Establecer comparaciones entre el modelo dado como ejemplo y nuestro programa
 c) Realizar un programa usando el circuito dado en el ejemplo que a través de una interrupción haga un paso a paso del cambio entre los 4 diodos.
 Cada vez que cambie de posición el interruptor encenderá el siguiente diodo.
 d) Realizar un programa en base al mismo circuito que cuando el interruptor se cierre las luces avancen hacia arriba y que cuando el interruptor se abra vayan hacia abajo.
+...
